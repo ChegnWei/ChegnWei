@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChegnWei
 - 👀 I’m interested in Code Design
-- 🌱 I’m currently learning PHP C# Vue
+- 🌱 I’m currently learning C# MVC WinForm
 
 <!---
 ChegnWei/ChegnWei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
